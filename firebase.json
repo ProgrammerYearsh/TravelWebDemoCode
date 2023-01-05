@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "travel-web-f0e19",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
